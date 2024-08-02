@@ -1,6 +1,5 @@
 # Modding-MC-Masters-Week-7
 
-# Modding-MC-Week-5
 Hello Ninjas and their families!
 Thank you so much for such an incredible week of coding and playing Minecraft. Here is the hub for each and every one of your mods. 
 
