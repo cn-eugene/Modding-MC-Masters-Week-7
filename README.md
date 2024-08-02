@@ -1,13 +1,16 @@
 # Modding-MC-Masters-Week-7
 
-Hello Ninjas and their families!
-Thank you so much for such an incredible week of coding and playing Minecraft. Here is the hub for each and every one of your mods. 
+Hello Micah, Evan, and the wonderful Ninja Families!
+
+Thank you so much for such an incredible week of coding and playing Minecraft. This week has been one of my absolute favorites to date and it's been so incredible to see all the hardwork and incredible efforts you all have done. I hope you continue to work on and build up these incredible mods with even more Rainbow and Mair Weapons and tools. 
+
+Here is the hub for each and every one of your mods, I hope you continue to access them!.\ 
 
   Each Ninja should find two files here for them to download along with the download instructions. The .ZIP file is used in Mcreator so that Ninjas can continue to edit and develop their mods now that camp is over. The .JAR file is the mod itself which can be added to your game through the use of Curseforge.
 
   I truly hope these instructions are helpful in the quest to access these mods at home. Please don't hesitate to reach out if you have issues accessing them. These Ninjas worked very hard and deserve to enjoy their creations long after this camp has ended. You can reach out at 541-WEEK-FUN or eugeneor@codeninjas.com and we will do our best to support you accessing your mods.
 
-  Thank you all so much for such an incredible camp. It has been amazing to be your Sensei and I cannot be more proud of all the work you've done. Now go forth and play!
+  Thank you all so much for such an incredible camp. It has been amazing to be your Sensei and I cannot be more proud of all the work you've done. Now go forth and play! You've earned the chance to fully see all your hardwork!
  
   -Sensei Chaz
 
