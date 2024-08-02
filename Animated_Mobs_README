@@ -1,6 +1,6 @@
-# Evan's Super Secret Bonus Instructions
+#  Super Secret Bonus Instructions
 
-Hey Evan! I hope you had an absolutly incredible week. One of my favorite parts of this week was seeing you embrace the challenge of animating your custom mobs and adding them into your game. That's something I had no idea how to do until you helped me learn it! I want to make sure that you are able to continue playing with these mobs long after camp is over.
+Hey Ninjas! I hope you had an absolutly incredible week. One of my favorite parts of this week was seeing you embrace the challenge of animating your custom mobs and adding them into your game. That's something I had no idea how to do until you helped me learn it! I want to make sure that you are able to continue playing with these mobs long after camp is over.
 
 In order to add these animated mobs, we needed to add a new PlugIn called Nerdy's Geckolib. [ https://mcreator.net/plugin/91484/nerdys-geckolib-plugin-forge-1182-1192 ]
 When you install Geckolib, save the folder in an easily accesible location and make sure the version you install MATCHES the version of Mcreator you have installed.
