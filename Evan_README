@@ -1,0 +1,27 @@
+# Evan's Super Secret Bonus Instructions
+
+Hey Evan! I hope you had an absolutly incredible week. One of my favorite parts of this week was seeing you embrace the challenge of animating your custom mobs and adding them into your game. That's something I had no idea how to do until you helped me learn it! I want to make sure that you are able to continue playing with these mobs long after camp is over.
+
+In order to add these animated mobs, we needed to add a new PlugIn called Nerdy's Geckolib. [ https://mcreator.net/plugin/91484/nerdys-geckolib-plugin-forge-1182-1192 ]
+When you install Geckolib, save the folder in an easily accesible location and make sure the version you install MATCHES the version of Mcreator you have installed.
+
+# Mcreator
+
+Once installed, open Mcreator and before opening your workspace open the Prefrences window and navigate to the tab that says "Manage PlugIns"
+Click the Green Plus that says Load Plugin and open the .ZIP folder you downloaded.
+Click on the box next to "Enable Java Mods" Then close and reopen Mcreator.
+
+Naviagte to your workspace then at the top of your screen next to "Mcreator" and "File, click the dropdown for "Workspace" and select "Workspace Settings"
+Open "External APIs" and enable Geckolib then close and reopen Mcreator one more time. Now Geckolib should be set up with Mcreator.
+
+#BlockBench
+
+Blockbench is the tool we used for creating our Custom Mobs throughout this week. In order to continue making animated mobs we will need to ensure the Gekolib PlugIn is also set up with Blockbench [ https://www.blockbench.net/ ]
+
+Open the WebApp for Blockbench and navigate to the "File" Menu at the top of the screen, then select the Plugins option.
+
+Use the searchbar to find Geckolib Animation Utils and click install. Now when making a custom animated mob, select the option Geckolab Animated Model and you're set to go!
+
+This video below is one I refrences a ton when learning how to do this, watch and follow along if you need any help adding your mob into your game!
+
+https://www.youtube.com/watch?v=q5UK_gLyHjE 
